@@ -4,7 +4,7 @@
  <title>The blog of Sreeraj Rajendran</title>
  <link href="http://radioninja.in/atom.xml" rel="self"/>
  <link href="http://radioninja.in"/>
- <updated>2014-03-23T23:59:20+05:30</updated>
+ <updated>2014-08-30T10:40:03+05:30</updated>
  <id>http://radioninja.in</id>
  <author>
    <name>Sreeraj Rajendran</name>
@@ -17,7 +17,8 @@
    <link href="http://radioninja.in/blog/2014/03/23/hello-radio.html"/>
    <updated>2014-03-23T00:00:00+05:30</updated>
    <id>http://radioninja.in/blog/2014/03/23/hello-radio</id>
-   <content type="html">&lt;p&gt;Hello Radio&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;Hello Radio&lt;/p&gt;
+</content>
  </entry>
  
  
